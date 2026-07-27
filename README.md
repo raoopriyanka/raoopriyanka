@@ -2,7 +2,7 @@
 
 🎓 Final-year B.Tech Information Technology student at Rajiv Gandhi Institute of Technology, Mumbai.
 
-💻 I enjoy building software that solves real-world problems, with a particular interest in **Software Development, Backend Engineering, Machine Learning, and Data Analytics**. I like turning ideas into practical applications while continuously improving my problem-solving skills through Data Structures and Algorithms.
+💻 I enjoy building software and data-driven solutions that solve real-world problems, with a particular interest in **Software Development, Backend Engineering, Machine Learning, and Data Analytics**. I like turning ideas into practical applications while continuously improving my problem-solving skills through Data Structures and Algorithms.
 
 ---
 
@@ -10,7 +10,7 @@
 
 - 🎓 Final-year B.Tech Information Technology Student
 - 💻 Interested in Software Development & Backend Engineering
-- 📊 Exploring Data Analytics and Machine Learning
+- 📊 Passionate about Data Analytics and Machine Learning
 - 🌱 Currently learning System Design and strengthening DSA
 - 🎯 Seeking Software Engineering, Backend Development, and Data Analytics opportunities
 
@@ -49,10 +49,20 @@
 - GitHub
 - VS Code
 - Google Cloud
+- Power BI
 
 ---
 
 ## 📌 Featured Projects
+
+### 📊 ChurnShield – Customer Churn Analysis & Prediction
+An end-to-end machine learning and data analytics project that predicts customer churn using telecom customer data. The project includes data preprocessing, exploratory data analysis, feature engineering, model training, and an interactive Power BI dashboard to uncover key churn trends and business insights.
+
+**Tech:** Python, Pandas, NumPy, Scikit-learn, Power BI, Matplotlib
+
+🔗 Repository: https://github.com/raoopriyanka/customer-churn-prediction
+
+---
 
 ### 🤖 Gesturify
 A real-time hand gesture recognition system that uses Computer Vision and Machine Learning to detect and classify hand gestures through a webcam. The system also provides voice feedback by speaking the detected gesture.

@@ -1,111 +1,163 @@
 # Hi, I'm Priyanka Rao 👋
 
-🎓 Final-year B.Tech Information Technology student at Rajiv Gandhi Institute of Technology, Mumbai.
+🎓 Final-year B.Tech Information Technology student at **Rajiv Gandhi Institute of Technology, Mumbai**.
 
-💻 I enjoy building software and data-driven solutions that solve real-world problems, with a particular interest in **Software Development, Backend Engineering, Machine Learning, and Data Analytics**. I like turning ideas into practical applications while continuously improving my problem-solving skills through Data Structures and Algorithms.
+I'm passionate about building scalable software, AI-powered applications, and data-driven solutions. I enjoy solving real-world engineering problems through full-stack development, backend systems, machine learning, and cloud technologies.
 
----
-
-## 🚀 About Me
-
-- 🎓 Final-year B.Tech Information Technology Student
-- 💻 Interested in Software Development & Backend Engineering
-- 📊 Passionate about Data Analytics and Machine Learning
-- 🌱 Currently learning System Design and strengthening DSA
-- 🎯 Seeking Software Engineering, Backend Development, and Data Analytics opportunities
+Currently preparing for Software Engineering roles while strengthening my Data Structures & Algorithms, System Design, and AI engineering skills.
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 About Me
+
+* 🎓 Final-year B.Tech (Information Technology)
+* 💻 Interested in Software Engineering, Backend Development, and AI
+* 🤖 Building AI-powered applications using modern development workflows
+* 📊 Passionate about Machine Learning and Data Analytics
+* 🌱 Currently learning System Design, Docker, and Cloud Deployment
+* 🧩 Regularly solving DSA problems on LeetCode
+* 🎯 Looking for Software Engineering Internship and New Grad opportunities
+
+---
+
+# 🛠️ Tech Stack
 
 ### Languages
-- Python
-- Java
-- JavaScript
-- C++
-- SQL
+
+* Python
+* C++
+* Java
+* JavaScript
+* SQL
 
 ### Frontend
-- HTML
-- CSS
-- React.js
-- Bootstrap
+
+* React.js
+* HTML5
+* CSS3
+* Bootstrap
 
 ### Backend
-- Node.js
-- Express.js
-- REST APIs
+
+* Node.js
+* Express.js
+* REST APIs
+* FastAPI
 
 ### Databases
-- MySQL
 
-### Libraries & Tools
-- Pandas
-- NumPy
-- Scikit-learn
-- OpenCV
-- MediaPipe
-- Git
-- GitHub
-- VS Code
-- Google Cloud
-- Power BI
+* MySQL
+* MongoDB
 
----
+### AI / Data Science
 
-## 📌 Featured Projects
+* Pandas
+* NumPy
+* Scikit-learn
+* OpenCV
+* MediaPipe
+* Matplotlib
+* Power BI
 
-### 📊 ChurnShield – Customer Churn Analysis & Prediction
-An end-to-end machine learning and data analytics project that predicts customer churn using telecom customer data. The project includes data preprocessing, exploratory data analysis, feature engineering, model training, and an interactive Power BI dashboard to uncover key churn trends and business insights.
+### Tools & Platforms
 
-**Tech:** Python, Pandas, NumPy, Scikit-learn, Power BI, Matplotlib
-
-🔗 Repository: https://github.com/raoopriyanka/customer-churn-prediction
-
----
-
-### 🤖 Gesturify
-A real-time hand gesture recognition system that uses Computer Vision and Machine Learning to detect and classify hand gestures through a webcam. The system also provides voice feedback by speaking the detected gesture.
-
-**Tech:** Python, OpenCV, MediaPipe, Scikit-learn, NumPy
-
-🔗 Repository: https://github.com/raoopriyanka/Gesturify
+* Git
+* GitHub
+* Docker
+* Linux
+* Google Cloud
+* VS Code
+* Postman
 
 ---
 
-### 🎤 IntervAI
-An AI-powered interview preparation platform designed to help users practice interviews, improve communication skills, and receive intelligent feedback through an interactive experience.
+# ⭐ Featured Projects
 
-**Tech:** React.js, Node.js, Express.js, AI APIs *(replace with the exact technologies you used)*
+## 🤖 AI Agent Pipeline
 
-🔗 Repository: https://github.com/raoopriyanka/IntervAI
+An AI-powered multi-agent workflow built to optimize LLM inference costs and improve reliability.
 
----
+### Highlights
 
-## 📚 Currently Learning
+* Multi-agent architecture
+* Token optimization techniques
+* Context window management
+* Retry and validation pipeline
+* FastAPI backend
+* CI/CD with GitHub Actions
+* Dockerized deployment
 
-- Data Structures & Algorithms
-- Backend Development
-- System Design
-- Cloud Technologies
+### Impact
 
----
+* Reduced token usage by **99.5%**
+* Lowered inference cost significantly
+* Improved workflow reliability using validation and retry mechanisms
 
-## 📈 GitHub Goals
+**Tech Stack**
 
-- Build scalable backend applications
-- Contribute to open-source projects
-- Continuously improve problem-solving skills
-- Develop production-ready software
+Python • FastAPI • Docker • GitHub Actions • AI Agents • JSON • REST APIs
 
----
-
-## 📫 Connect With Me
-
-📧 **Email:** priyankarao2005@gmail.com
-
-💼 **LinkedIn:** https://linkedin.com/in/priyankarao-1506p
+🔗 Repository:
+**https://github.com/raoopriyanka/ai_agent_pipeline**
 
 ---
 
-⭐ *Always learning, building, and improving one project at a time.*
+## 📊 ChurnShield — Customer Churn Prediction
+
+An end-to-end Machine Learning project that predicts telecom customer churn and provides business insights through an interactive dashboard.
+
+### Features
+
+* Data preprocessing
+* Feature engineering
+* Machine Learning model training
+* Customer churn prediction
+* Interactive Power BI dashboard
+* Business insights and visualization
+
+**Tech Stack**
+
+Python • Pandas • NumPy • Scikit-learn • Power BI • Matplotlib
+
+🔗 Repository:
+**https://github.com/raoopriyanka/customer-churn-prediction**
+
+---
+
+# 📚 Currently Learning
+
+* Advanced Data Structures & Algorithms
+* System Design
+* Backend Engineering
+* Cloud Computing
+* Docker & Containers
+* AI Engineering
+
+---
+
+# 📈 2026 Goals
+
+* Solve 300+ LeetCode problems
+* Build production-ready backend applications
+* Contribute to open-source projects
+* Learn distributed systems and scalable architecture
+* Secure a Software Engineering Internship
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: **[priyankarao2005@gmail.com](mailto:priyankarao2005@gmail.com)**
+
+💼 LinkedIn:
+**https://linkedin.com/in/priyankarao-1506p**
+
+💻 GitHub:
+**https://github.com/raoopriyanka**
+
+🌐 Portfolio:
+**https://priyanka-portfolio-beige.vercel.app**
+
+---
+
+> *"Code. Learn. Build. Repeat."* 🚀

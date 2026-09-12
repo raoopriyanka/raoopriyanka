@@ -80,10 +80,9 @@
 
 ### 📊 GitHub Stats
 
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raoopriyanka&theme=tokyonight" width="100%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raoopriyanka&theme=tokyonight&count_private=true&cache_seconds=1800" width="100%" alt="GitHub Streak" />
+  <br/><br/>
 </div>
 
 ---

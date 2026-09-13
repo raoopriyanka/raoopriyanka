@@ -19,7 +19,7 @@ jobs:
           card: stats
           options: 'username=raoopriyanka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true'
           path: profile/github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Generate Top Languages Card
         uses: soulteary/github-readme-stats-action@v1.0.0
@@ -27,7 +27,7 @@ jobs:
           card: top-langs
           options: 'username=raoopriyanka&layout=compact&theme=tokyonight&hide_border=false'
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Commit and Push SVGs
         run: |

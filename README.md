@@ -81,8 +81,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raoopriyanka&theme=tokyonight&count_private=true&cache_seconds=1800" width="100%" alt="GitHub Streak" />
+  <a href="https://github.com/raoopriyanka">
+    <img height="175" src="https://github-readme-stats-extended.vercel.app/api?username=raoopriyanka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1" alt="Priyanka's GitHub Stats" />
+  </a>
+  <a href="https://github.com/raoopriyanka">
+    <img height="175" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=raoopriyanka&layout=compact&theme=tokyonight&hide_border=false&v=1" alt="Top Languages" />
+  </a>
   <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raoopriyanka&theme=tokyonight&count_private=true&cache_seconds=1800" alt="GitHub Streak" />
 </div>
 
 ---
